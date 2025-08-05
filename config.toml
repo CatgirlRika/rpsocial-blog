@@ -1,4 +1,4 @@
-baseURL = "https://blog.rpsocial.app/"
+baseURL = "https://rpsocialblog.netlify.app/"
 languageCode = "en-us"
 title = "rpsocial.app Blog"
 theme = "PaperMod"
