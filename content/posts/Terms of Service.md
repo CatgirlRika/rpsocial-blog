@@ -1,6 +1,5 @@
 ---
 title: "Terms of Service"
-dateFormat "2006-01-02 3:04PM"
 draft: false
 ---
 # RPSocial Blog -  Terms of Service
