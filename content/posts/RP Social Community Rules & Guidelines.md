@@ -1,4 +1,6 @@
-
+title: "RP Social Community Rules & Guidelines"
+date: 2025-08-04T12:00:00
+draft: false
 
 Welcome to **RP Social**! We’re glad you’re here. Whether you’re a seasoned roleplayer or just testing the waters, this community is built on trust, creativity, and respect. We keep the rules simple and clear so everyone can focus on what matters. Having fun, making connections, and telling great stories.
 
