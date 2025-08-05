@@ -1,0 +1,29 @@
+baseURL = "https://blog.rpsocial.app/"
+languageCode = "en-us"
+title = "rpsocial.app Blog"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  author = "Rika"
+  description = "Updates, community notes, and thoughts from rpsocial.app"
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowToc = true
+
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Rules"
+  url = "/rules/"
+  weight = 2
+
+[[menu.main]]
+  name = "Updates"
+  url = "/posts/"
+  weight = 3
