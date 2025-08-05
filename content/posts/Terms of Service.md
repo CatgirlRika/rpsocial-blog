@@ -68,7 +68,7 @@ Welcome to **RPSocial**! By reading, submitting, or interacting with our content
 ## 8. Contact
 
 Got a question or concern?  
-Email: `admin@rpsocial.etke.host `
+Email: [admin@rpsocial.etke.host](mailto:admin@rpsocial.etke.host)
 
 ---
 
