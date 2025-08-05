@@ -30,3 +30,9 @@ theme = "PaperMod"
   name = "Updates"
   url = "/posts/"
   weight = 3
+  
+[[menu.main]]
+  name = "Terms of Service"
+  url = "https://rpsocialblog.netlify.app/posts/terms-of-service/"
+  weight = 4
+  
