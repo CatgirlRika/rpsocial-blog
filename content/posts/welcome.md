@@ -13,6 +13,6 @@ This is where you'll find:
 - RP lore drops and event recaps
 - Random thoughts and blog posts from your local admin
 
-You can also find us on Matrix at `@rika:rpsocial.etke.host` or chat with the crew in our general lounge.
+You can also find us on Matrix at https://matrix.to/#/#rpsocialapp:rpsocial.etke.host or chat with the crew in our general lounge.
 
 Thanks for being part of this little social universe. 💙
