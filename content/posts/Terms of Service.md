@@ -1,3 +1,8 @@
+---
+title: "Terms of Service"
+{{ now | dateFormat "2006-01-02 3:04PM" }}
+draft: false
+---
 # RPSocial Blog -  Terms of Service
 
 _Last updated: 2025-08-05_
