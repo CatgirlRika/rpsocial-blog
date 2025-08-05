@@ -2,8 +2,10 @@ baseURL = "https://blog.rpsocial.app/"
 languageCode = "en-us"
 title = "rpsocial.app Blog"
 theme = "PaperMod"
-paginate = 5
 
+[pagination]
+  pagerSize = 5
+  
 [params]
   author = "Rika"
   description = "Updates, community notes, and thoughts from rpsocial.app"
