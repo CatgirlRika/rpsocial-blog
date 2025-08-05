@@ -1,7 +1,9 @@
 ---
-title: "Terms of Service"
+title: "ToS"
+date: 2025-08-05T12:06:22-05:00
 draft: false
 ---
+
 # RPSocial Blog -  Terms of Service
 
 _Last updated: 2025-08-05_
