@@ -9,5 +9,7 @@ draft: false
 
 **Register token**: wt4iWvp6j0rXI5LrQbRwk0J77DTv0wUrgZswGbwpig
 
+**DOWNLOAD MATRIX ELEMENT FOR PC/ANDROID/IPHONE**: https://matrix.to/#/#general:rpsocial.etke.host
+
 EMAIL OPTIONAL!!
 
