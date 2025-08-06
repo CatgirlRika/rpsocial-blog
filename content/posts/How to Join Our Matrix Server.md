@@ -1,7 +1,7 @@
 ---
 title: "How to Join Matrix Server"
 date: 2025-08-06T12:10:37-05:00
-draft: true
+draft: false
 ---
 **Homeserver** is https://matrix.rpsocial.etke.host/ 
 
