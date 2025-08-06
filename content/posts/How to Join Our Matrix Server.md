@@ -7,7 +7,7 @@ draft: false
 
 **Web version sign up page:** https://element.rpsocial.etke.host/#/register or invite https://matrix.to/#/#rpsocialapp:rpsocial.etke.host
 
-**Register token**: wt4iWvp6j0rXI5LrQbRwk0J77DTv0wUrgZswGbwpig
+**Register token as of August 2025! THIS WILL BE CHANGED MONTHLY**: wt4iWvp6j0rXI5LrQbRwk0J77DTv0wUrgZswGbwpig
 
 **DOWNLOAD MATRIX ELEMENT FOR PC/ANDROID/IPHONE**: https://element.io/download
 
